@@ -310,3 +310,14 @@
 .metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties
 .metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml
 .metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml
+*.tree
+.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version
+.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version
+.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs
+.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.frameworks.core.prefs
+.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache
+.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache
+.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
+.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml
+.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml
+.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml
